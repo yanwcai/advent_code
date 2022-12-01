@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Find the top 3 Elves carrying the most Calories.
 int main(int argc, char* argv[]) {
 
     // read the text file
